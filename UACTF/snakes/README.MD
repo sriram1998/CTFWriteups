@@ -1,4 +1,4 @@
-The challenge opens a netcat shell and asks us for a input character. An IF condition is checked using the entered input and a funciton called "unreachable" is used to print the flag.
+The challenge opens a netcat shell and asks us for a input character. An IF condition is checked using the entered input and a function called "unreachable" is used to print the flag.
 
 On first glance, the IF block seems to be impossible to bypass.
 
